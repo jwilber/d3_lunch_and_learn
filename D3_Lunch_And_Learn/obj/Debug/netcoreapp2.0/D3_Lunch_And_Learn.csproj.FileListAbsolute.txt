@@ -1,0 +1,11 @@
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\bin\Debug\netcoreapp2.0\D3_Lunch_And_Learn.deps.json
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\bin\Debug\netcoreapp2.0\D3_Lunch_And_Learn.runtimeconfig.json
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\bin\Debug\netcoreapp2.0\D3_Lunch_And_Learn.runtimeconfig.dev.json
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\bin\Debug\netcoreapp2.0\D3_Lunch_And_Learn.dll
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\bin\Debug\netcoreapp2.0\D3_Lunch_And_Learn.pdb
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.csprojResolveAssemblyReference.cache
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.csproj.CoreCompileInputs.cache
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.AssemblyInfoInputs.cache
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.AssemblyInfo.cs
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.dll
+C:\Projects\LunchAndLearn\d3_lunch_and_learn\D3_Lunch_And_Learn\obj\Debug\netcoreapp2.0\D3_Lunch_And_Learn.pdb

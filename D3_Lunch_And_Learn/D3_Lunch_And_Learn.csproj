@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <None Include="wwwroot\cities.csv" />
+    <None Include="wwwroot\default.html" />
   </ItemGroup>
 
   <ItemGroup>
