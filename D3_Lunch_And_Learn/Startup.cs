@@ -18,16 +18,8 @@ namespace D3_Lunch_And_Learn
         
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            //if (env.IsDevelopment())
-            //{
-            //    app.UseDeveloperExceptionPage();
-            //}
             app.UseDefaultFiles();
             app.UseStaticFiles();
-            //app.Run(async (context) =>
-            //{
-            //    await context.Response.WriteAsync("Hello World!");
-            //});
         }
     }
 }
